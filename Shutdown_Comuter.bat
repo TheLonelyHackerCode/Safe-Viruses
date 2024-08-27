@@ -13,7 +13,7 @@ timeout 3
 shutdown -s -t 0
 
 :Y
-echo Closeing Program
+echo Closing Program
 timeout 3
 pause
 exit
