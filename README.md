@@ -1,4 +1,5 @@
-# These are safe Viruses
+# [Safe-Viruses](https://github.com/TheLonelyHackerCode/Safe-Viruses/)
+## These are safe Viruses
 They Could
 - Crash Computer
 
